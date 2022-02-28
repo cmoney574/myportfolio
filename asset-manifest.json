@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/cmoney574/myportfolio/static/css/main.073c9b0a.css",
+    "main.js": "/cmoney574/myportfolio/static/js/main.6382e86c.js",
+    "static/js/787.1f11dfe9.chunk.js": "/cmoney574/myportfolio/static/js/787.1f11dfe9.chunk.js",
+    "static/media/virtualpets.png": "/cmoney574/myportfolio/static/media/virtualpets.5191e869b870578a46ea.png",
+    "static/media/currencycompare.png": "/cmoney574/myportfolio/static/media/currencycompare.265e1d5f6287c6fcbc3f.png",
+    "static/media/SelfPhoto.jpg": "/cmoney574/myportfolio/static/media/SelfPhoto.730112ee5b22d0ed3d86.jpg",
+    "static/media/logo.svg": "/cmoney574/myportfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cmoney574/myportfolio/index.html",
+    "main.073c9b0a.css.map": "/cmoney574/myportfolio/static/css/main.073c9b0a.css.map",
+    "main.6382e86c.js.map": "/cmoney574/myportfolio/static/js/main.6382e86c.js.map",
+    "787.1f11dfe9.chunk.js.map": "/cmoney574/myportfolio/static/js/787.1f11dfe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6382e86c.js"
+  ]
+}
