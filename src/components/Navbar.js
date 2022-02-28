@@ -15,19 +15,19 @@ export default function Nav() {
         }}
       >
         <div style={linkStyle}>
-          <a href="#">Home</a>
+          Home
         </div>
         <div style={linkStyle}>
-          <a href="#">Projects</a>
+          Projects
         </div>
         <div style={linkStyle}>
-          <a href="#">Resume</a>
+          Resume
         </div>
         <div style={linkStyle}>
-          <a href="#">About</a>
+         About
         </div>
         <div style={linkStyle}>
-          <a href="#">Contact</a>
+          Contact
         </div>
       </section>
     </nav>
