@@ -16,9 +16,9 @@ export default function AboutMe() {
                     >
                         <h2> My name is Charles Money</h2>
                         <img src={Picture} alt = "project" height="200" width="200"/>
-                        <h3> I can make my own website </h3>                
+                        <h3> I am a full stack web-developer taking the Georgia Tech Web Development Bootcamp course </h3>                
                         <p> 
-                            This is quite interesting
+                            I like programming, chess, video games, and reading
                         </p>
                     </section>
                 </div>
