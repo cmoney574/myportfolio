@@ -26,9 +26,9 @@ export default function Contact() {
                
                     <a href="cmoney5748@gmail.com">cmoney5748@gmail.com</a>
                
-                    <a href="#https://github.com/cmoney574">Github</a>
+                    <a href="https://github.com/cmoney574">Github</a>
                
-                    <a href="#https://www.linkedin.com/in/charles-money-068351133">LinkedIn</a>
+                    <a href="https://www.linkedin.com/in/charles-money-068351133">LinkedIn</a>
                     </section>
         </div>
         </section>

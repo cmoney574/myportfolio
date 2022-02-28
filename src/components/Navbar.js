@@ -15,19 +15,16 @@ export default function Nav() {
         }}
       >
         <div style={linkStyle}>
-          Home
+          <a href='https://cmoney574.github.io/myportfolio/'>Home</a>
         </div>
         <div style={linkStyle}>
-          Projects
+        <a href='#Project'>Projects</a>
         </div>
         <div style={linkStyle}>
-          Resume
+        <a href='../images/CMoneyResume.pdf'>Resume</a>
         </div>
         <div style={linkStyle}>
-         About
-        </div>
-        <div style={linkStyle}>
-          Contact
+        <a href='cmoney5748@gmail.com'>Contact</a>
         </div>
       </section>
     </nav>
