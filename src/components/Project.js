@@ -2,7 +2,7 @@ import React from 'react';
 import p1 from '../images/currencycompare.png'
 import p2 from '../images/virtualpets.png'
 
-export default function Nav() {
+export default function Project() {
   const linkStyle = { border: '1px black', padding: '5px' };
 
   return (
