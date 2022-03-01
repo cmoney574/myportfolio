@@ -4,7 +4,7 @@ export default function AboutMe() {
     return (
         <section id="about">
             <div>
-                <div>
+                <div style={{backgroundColor: 'lightblue'}}>
                     <section
                         style={{
                         display: 'flex',
@@ -20,7 +20,58 @@ export default function AboutMe() {
                         <p> 
                             I like programming, chess, video games, and reading
                         </p>
+                        <h4>My programming skills include</h4>
                     </section>
+                    <ul style={{
+                        display: 'flex',
+                        flexWrap: 'wrap',
+                        justifyContent: 'center',
+                        backgroundColor: 'gold'
+                    }}>
+                        <li style={{
+                        marginRight: '100px'
+                    }}>
+                            Javascript
+                        </li>
+                        <li style={{
+                        marginRight: '100px'
+                    }}>
+                            HTML
+                        </li>
+                        <li style={{
+                        marginRight: '100px'
+                    }}>
+                            CSS
+                        </li>
+                        <li style={{
+                        marginRight: '100px'
+                    }}>
+                            React
+                        </li>
+                        <li style={{
+                        marginRight: '100px'
+                    }}>
+                            Github
+                        </li>
+                        <li style={{
+                        marginRight: '100px'
+                    }}>
+                            MySQL
+                        </li>
+                        <li style={{
+                        marginRight: '100px'
+                    }}>
+                            MongoDB
+                        </li>
+                        <li style={{
+                        marginRight: '100px'
+                    }}>
+                            Bootstrap
+                        </li>
+                        <li>
+                            Express
+                        </li>
+                    </ul>
                 </div>
             </div>   
         </section>

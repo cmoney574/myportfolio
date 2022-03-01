@@ -6,7 +6,7 @@ export default function Project() {
   const linkStyle = { border: '1px black', padding: '5px' };
 
   return (
-    <nav className="main-header-menu">
+    <nav id="Project" className="main-header-menu">
         <section style={{
             display: 'flex',
             flexDirection: 'column',

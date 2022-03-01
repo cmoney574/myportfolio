@@ -21,10 +21,10 @@ export default function Nav() {
         <a href='#Project'>Projects</a>
         </div>
         <div style={linkStyle}>
-        <a href='../images/CMoneyResume.pdf'>Resume</a>
+        <a href='../images/CMoneyResume.pdf' download>Resume</a>
         </div>
         <div style={linkStyle}>
-        <a href='cmoney5748@gmail.com'>Contact</a>
+        <a href='#contact'>Contact</a>
         </div>
       </section>
     </nav>
