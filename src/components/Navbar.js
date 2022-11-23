@@ -1,4 +1,5 @@
 import React from 'react';
+import MyPDF from '../images/CMoneyResume.pdf'
 
 export default function Nav() {
   const linkStyle = { border: '1px black', padding: '5px' };
@@ -21,7 +22,7 @@ export default function Nav() {
         <a href='#Project'>Projects</a>
         </div>
         <div style={linkStyle}>
-        <a href='../images/CMoneyResume.pdf' download>Resume</a>
+        <a href={MyPDF} download="CMoneyResume.pdf"> Resume </a>
         </div>
         <div style={linkStyle}>
         <a href='#contact'>Contact</a>
