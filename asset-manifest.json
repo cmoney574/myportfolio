@@ -1,18 +1,21 @@
 {
   "files": {
     "main.css": "/myportfolio/static/css/main.073c9b0a.css",
-    "main.js": "/myportfolio/static/js/main.6cb07c37.js",
+    "main.js": "/myportfolio/static/js/main.b8c6bfaf.js",
     "static/js/787.1f11dfe9.chunk.js": "/myportfolio/static/js/787.1f11dfe9.chunk.js",
+    "static/media/TAMLogo.jpg": "/myportfolio/static/media/TAMLogo.613c656c3149a14b84b8.jpg",
     "static/media/virtualpets.png": "/myportfolio/static/media/virtualpets.5191e869b870578a46ea.png",
+    "static/media/CMoneyResume.pdf": "/myportfolio/static/media/CMoneyResume.8ab7bf5704d6b388ab78.pdf",
     "static/media/currencycompare.png": "/myportfolio/static/media/currencycompare.265e1d5f6287c6fcbc3f.png",
     "static/media/SelfPhoto.jpg": "/myportfolio/static/media/SelfPhoto.730112ee5b22d0ed3d86.jpg",
+    "static/media/mdwlogo.jpg": "/myportfolio/static/media/mdwlogo.db4c6804f0263c1d3ac0.jpg",
     "index.html": "/myportfolio/index.html",
     "main.073c9b0a.css.map": "/myportfolio/static/css/main.073c9b0a.css.map",
-    "main.6cb07c37.js.map": "/myportfolio/static/js/main.6cb07c37.js.map",
+    "main.b8c6bfaf.js.map": "/myportfolio/static/js/main.b8c6bfaf.js.map",
     "787.1f11dfe9.chunk.js.map": "/myportfolio/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.6cb07c37.js"
+    "static/js/main.b8c6bfaf.js"
   ]
 }
