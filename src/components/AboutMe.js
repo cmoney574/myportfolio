@@ -1,4 +1,4 @@
-import Picture from '../images/SelfPhoto.jpg'
+import Picture from '../images/gradphoto.jpg'
 
 export default function AboutMe() {
     return (
@@ -15,8 +15,9 @@ export default function AboutMe() {
                             }}
                     >
                         <h2> My name is Charles Money</h2>
-                        <img src={Picture} alt = "project" height="200" width="200"/>
-                        <h3> I am a full stack web-developer who has completed a Georgia Tech Web Development Bootcamp course  </h3>                
+                        <img src={Picture} alt = "project" height="200" width="300"/>
+                        <h3> I am a full stack web-developer who has completed a Georgia Tech Web Development Bootcamp course
+                             with a degree in Computer Information Systems from Georgia State </h3>                
                         <p> 
                             I like programming, chess, video games, and reading
                         </p>
